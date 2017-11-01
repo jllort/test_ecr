@@ -1,8 +1,6 @@
 ## Joan Llort
 
-You can use the [editor on GitHub](https://github.com/jllort/test_ecr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-This is a test on creating a website
+This is a test on creating a website...but it's not working!!
 
 ### Markdown
 
